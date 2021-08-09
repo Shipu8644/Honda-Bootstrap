@@ -1,0 +1,24 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* Common Style Or Utilities*/
+body{
+    font-family: 'Poppins', sans-serif;
+    background:  #F3F1FF;;
+}
+.btn-orange{
+    background-color:  #E76F51;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 30px;
+   
+}
+.gray-scale {
+    filter: grayscale(100%);
+}
+.fa-star{
+    color: #E76F51;
+}
+.miles-color{
+    color: #23A6F0;
+}
